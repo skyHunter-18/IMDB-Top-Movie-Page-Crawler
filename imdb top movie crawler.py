@@ -34,3 +34,4 @@ for links in link_set:
     print(f'Scrapped {count}')
     count += 1
     time.sleep(0.3)
+file.close()
